@@ -1,0 +1,66 @@
+.sideNavHeading {
+    font-size: 10px;
+}
+
+.imgMargin {
+    margin-left: 16px;
+    font-size: 12px;
+}
+
+.sideNav, .content, .boxes, .box {
+    margin-top: 20px;
+}
+
+.content {
+    height: 9rem;
+    width: 8rem;
+    background-color: #0377fc;
+    color: white;
+}
+
+.textAlign {
+    text-align: center;
+}
+
+.text {
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+
+.boxes {
+    height: 9rem;
+    width: 8rem;
+    margin-left: 15px;
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+
+.box {
+    height: 9rem;
+    width: 12rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+
+#time {
+    font-size: 1.5rem;
+}
+
+#date {
+    font-size: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+#content {
+    height: 20rem;
+    background-color: #286394;
+}
+
+.text-white {
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+
+#h1 {
+    font-size: 5rem;
+}
